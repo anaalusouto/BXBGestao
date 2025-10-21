@@ -46,7 +46,7 @@ cd [NOME_DO_DIRETORIO]
 Execute o script principal:
 
 ```bash
-python graficos_agile_final.py
+python DOWNXUP.py
 ```
 
 ## 📋 Como Utilizar
