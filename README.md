@@ -4,7 +4,6 @@ Este projeto é uma aplicação desktop em Python projetada para equipes Ágeis 
 
 ## ✨ Destaques do Projeto
 
-  * **Tema Claro e Legível:** Interface amigável construída com `customtkinter`.
   * **Seleção de Gráfico:** Alternância fácil entre as visualizações Burndown e Burnup.
   * **Entrada de Dados Simplificada:** Formulário dinâmico que se ajusta ao número de dias da Sprint.
   * **Foco Global:** Os gráficos rastreiam o progresso do time em relação à meta (em Horas ou Pontos).
@@ -15,39 +14,6 @@ Este projeto é uma aplicação desktop em Python projetada para equipes Ágeis 
   * **CustomTkinter:** Para a criação da interface gráfica (GUI).
   * **Matplotlib:** Para plotar e renderizar os gráficos.
   * **NumPy:** Para cálculos eficientes de dados (linhas ideais e acumuladas).
-
-## 💻 Instalação e Execução
-
-Para rodar esta aplicação em sua máquina, siga os passos abaixo:
-
-### Pré-requisitos
-
-Certifique-se de ter o Python 3 instalado.
-
-### 1\. Instalar Dependências
-
-Abra seu terminal ou prompt de comando e execute:
-
-```bash
-pip install customtkinter matplotlib numpy
-```
-
-### 2\. Baixar o Código
-
-Clone o repositório para sua máquina:
-
-```bash
-git clone [SEU_LINK_DO_REPOSITORIO]
-cd [NOME_DO_DIRETORIO]
-```
-
-### 3\. Executar a Aplicação
-
-Execute o script principal:
-
-```bash
-python DOWNXUP.py
-```
 
 ## 📋 Como Utilizar
 
