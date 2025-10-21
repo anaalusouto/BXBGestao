@@ -10,7 +10,7 @@ Este projeto é uma aplicação desktop em Python projetada para equipes Ágeis 
 
 ## 🚀 Tecnologias Utilizadas
 
-  * **Python 3.x**
+  * **Python 3.14**
   * **CustomTkinter:** Para a criação da interface gráfica (GUI).
   * **Matplotlib:** Para plotar e renderizar os gráficos.
   * **NumPy:** Para cálculos eficientes de dados (linhas ideais e acumuladas).
